@@ -1,0 +1,1 @@
+kaggle competitions submit -c speechlab-aug03 -f $1 -m $2
